@@ -1,0 +1,14 @@
+name: Contributor License Agreement Policy 
+description: CLA policy file
+
+resource: repository
+where:
+- |
+  repository.name.Equals(".github", StringComparison.InvariantCultureIgnoreCase)
+configuration: 
+   claPrimitive:
+      claContent: https://raw.githubusercontent.com/ContosoDev/CLA/main/test3.yml  
+      minimalChangeRequired: 
+         files: 1
+         codeLines: 1
+      autoSignMsftEmployee: true
