@@ -9,6 +9,6 @@ configuration:
    claPrimitive:
       claContent: https://raw.githubusercontent.com/microsoft/.github/main/CLA/microsoft.yml  
       minimalChangeRequired: 
-         files: 1
-         codeLines: 1
+         files: 2
+         codeLines: 16
       autoSignMsftEmployee: true
