@@ -11,4 +11,6 @@ configuration:
       minimalChangeRequired: 
          files: 1
          codeLines: 1
+      bypassUsers:
+      bypassOrgs:
       autoSignMsftEmployee: true
