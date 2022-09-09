@@ -9,3 +9,5 @@ configuration:
          files: 2
          codeLines: 16
       autoSignMsftEmployee: true
+      bypassUsers:
+         - github-actions[bot]
