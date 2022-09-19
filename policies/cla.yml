@@ -11,3 +11,4 @@ configuration:
       autoSignMsftEmployee: true
       bypassUsers:
          - github-actions[bot]
+         - dependabot[bot]
