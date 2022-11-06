@@ -6,6 +6,6 @@ The dev containers specification is maintained in the [spec repo](https://github
 
 We maintain a set of [images](https://github.com/devcontainers/images) and [Features](https://github.com/devcontainers/features) as part of the specification.
 
-Publish your own features using the [features template repo](https://github.com/devcontainers/feature-template).
+You can also [create and share your own Features](https://containers.dev/implementors/create-feature/). We've created a [Features template repo](https://github.com/devcontainers/feature-template) to help along the way.
 
 The https://containers.dev site is in the [devcontainers.github.io repo](https://github.com/devcontainers/devcontainers.github.io).
