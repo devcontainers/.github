@@ -4,7 +4,7 @@ In this community we maintain the [Development Containers (dev container) Specif
 
 The dev containers specification is maintained in the [spec repo](https://github.com/devcontainers/spec). 
 
-The community maintains a set of [images](https://github.com/devcontainers/images) for use as and [features](https://github.com/devcontainers/features) for your dev containers. 
+We maintain a set of [images](https://github.com/devcontainers/images) and [Features](https://github.com/devcontainers/features) as part of the specification.
 
 Publish your own features using the [features template repo](https://github.com/devcontainers/feature-template).
 
