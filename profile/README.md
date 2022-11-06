@@ -1,6 +1,11 @@
 ## Welcome to the Development Containers Community
 
-In this community we maintain the [Development Containers (dev container) Specification](https://containers.dev). The dev container spec defines a standard for any development tool to use a container as a full-featured development environment. Join us to continue to make this spec and the reference CLI implementation even better by joining the [discussion](https://github.com/orgs/devcontainers/discussions) or opening issues on the relevant repository.
+In this community we maintain the [Development Containers (dev container) Specification](https://containers.dev). The dev container spec defines a standard for any development tool to use a container as a full-featured development environment. 
+
+Join us to continue to make this spec and the reference CLI implementation even better! There are several ways you can chat with the spec maintainers and the community:
+* Open a GitHub [Discussion](https://github.com/orgs/devcontainers/discussions)
+* Open issues on the relevant repository in the `devcontainers` org
+* Join our Slack channel! You may reply to [this Discussion](https://github.com/devcontainers/community/discussions/3) to get added
 
 The dev containers specification is maintained in the [spec repo](https://github.com/devcontainers/spec). 
 
